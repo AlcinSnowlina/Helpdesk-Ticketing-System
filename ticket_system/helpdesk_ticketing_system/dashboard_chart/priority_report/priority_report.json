@@ -1,0 +1,34 @@
+{
+ "chart_name": "Priority_report",
+ "chart_type": "Report",
+ "creation": "2025-07-03 17:39:33.518604",
+ "currency": "INR",
+ "custom_options": "{\"x_field\": \"priority\", \"chart_type\": \"Bar\", \"y_axis_fields\": [{\"idx\": 1, \"__islocal\": true, \"y_field\": \"count\", \"color\": \"#f22424\", \"name\": \"row 1\"}], \"y_fields\": [\"count\"], \"colors\": [\"#f22424\"]}",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart",
+ "filters_json": "{\"from_date\":\"2025-07-03\",\"to_date\":\"2025-07-04\",\"priority\":\"High\",\"status\":\"Closed\"}",
+ "group_by_type": "Count",
+ "idx": 0,
+ "is_public": 0,
+ "is_standard": 1,
+ "modified": "2025-07-03 17:39:33.536050",
+ "modified_by": "Administrator",
+ "module": "Helpdesk Ticketing System",
+ "name": "Priority_report",
+ "number_of_groups": 0,
+ "owner": "Administrator",
+ "report_name": "Open Tickets by Priority",
+ "roles": [],
+ "time_interval": "Yearly",
+ "timeseries": 0,
+ "timespan": "Last Year",
+ "type": "Bar",
+ "use_report_chart": 0,
+ "x_field": "priority",
+ "y_axis": [
+  {
+   "color": "#f22424",
+   "y_field": "count"
+  }
+ ]
+}

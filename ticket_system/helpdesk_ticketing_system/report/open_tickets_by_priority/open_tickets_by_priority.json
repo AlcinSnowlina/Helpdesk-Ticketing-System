@@ -1,0 +1,28 @@
+{
+ "add_total_row": 0,
+ "add_translate_data": 0,
+ "columns": [],
+ "creation": "2025-07-03 16:54:21.601484",
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "letterhead": null,
+ "modified": "2025-07-03 16:54:21.601484",
+ "modified_by": "Administrator",
+ "module": "Helpdesk Ticketing System",
+ "name": "Open Tickets by Priority",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Ticket",
+ "report_name": "Open Tickets by Priority",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "timeout": 0
+}

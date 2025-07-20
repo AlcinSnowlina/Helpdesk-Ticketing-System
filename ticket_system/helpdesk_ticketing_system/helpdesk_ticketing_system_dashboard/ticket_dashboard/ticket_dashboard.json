@@ -1,0 +1,28 @@
+{
+ "cards": [],
+ "charts": [
+  {
+   "width": "Half"
+  },
+  {
+   "chart": "Solved_&_Unsolved",
+   "width": "Half"
+  },
+  {
+   "chart": "Priority_report",
+   "width": "Half"
+  }
+ ],
+ "creation": "2025-07-03 17:38:14.628591",
+ "dashboard_name": "Ticket_Dashboard",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2025-07-03 17:39:33.564525",
+ "modified_by": "Administrator",
+ "module": "Helpdesk Ticketing System",
+ "name": "Ticket_Dashboard",
+ "owner": "Administrator"
+}

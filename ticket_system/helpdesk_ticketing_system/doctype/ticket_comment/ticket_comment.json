@@ -1,0 +1,56 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-07-03 14:59:48.032517",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "comment_text",
+  "commented_by",
+  "role",
+  "timestamp"
+ ],
+ "fields": [
+  {
+   "fieldname": "comment_text",
+   "fieldtype": "Text Editor",
+   "in_list_view": 1,
+   "label": "Comment"
+  },
+  {
+   "fieldname": "commented_by",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Commented By",
+   "options": "Client"
+  },
+  {
+   "fieldname": "role",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Role",
+   "options": "Client\nDeveloper\nManager"
+  },
+  {
+   "fieldname": "timestamp",
+   "fieldtype": "Datetime",
+   "in_list_view": 1,
+   "label": "Timestamp"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-07-09 16:44:06.352497",
+ "modified_by": "Administrator",
+ "module": "Helpdesk Ticketing System",
+ "name": "Ticket Comment",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
